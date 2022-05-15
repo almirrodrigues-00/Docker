@@ -104,4 +104,3 @@ echo “Instalação do Docker e do docker-compose concluída”
 
 # Execute o docker como usuário não root no Ubuntu
 sudo usermod -aG docker $USER
-
